@@ -14,7 +14,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 #Download the punkt package
-nltk.download('punkt',quiet=True)
+# nltk.download('punkt',quiet=True)
 
 corpus = '''Learning centres are typically a designated area that provides students with exciting and interesting experiences to practice, enrich, reteach, and enhance their learning. At present there are 5 different learning centres in AP and Telangana where our MSIT program is being offered.
 MSIT program is being offered by “Consortium of Institutions of Higher Learning” (CIHL), formed by the universities in Andhra Pradesh and Telangana.
