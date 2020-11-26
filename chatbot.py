@@ -16,8 +16,11 @@ warnings.filterwarnings('ignore')
 #Download the punkt package
 # nltk.download('punkt',quiet=True)
 
-corpus = '''MSIT stands for Masters of science in Information Technology. MSIT full form is Masters of science in Information Technology. 
-MSIT program is being offered by “Consortium of Institutions of Higher Learning” (CIHL),is instrumental in organizing MSIT program in various universities across the Andhra Pradesh and Telangana states.
+corpus = '''My name is chatBot and i am here to answer your questions. 
+MSIT is a program  being offered by “Consortium of Institutions of Higher Learning” (CIHL),is instrumental in organizing MSIT program in various universities across the Andhra Pradesh and Telangana states. 
+MSIT is Under MOU with Carnegie Mellon Researchers are providing guidance on the course content.  
+MSIT is an innovative multi-university interdisciplinary post-graduate program. 
+MSIT is a two year PG program. 
 MSIT program is offered in IIIT Hyderabad,JNTU-Hyderabad,JNTU-kakinada,JNTU-Anathapur,SUV universities. 
 Learning centres are typically a designated area that provides students with exciting and interesting experiences to practice, enrich, reteach, and enhance their learning. 
 At present there are five different learning centres(IIIT Hyderabad,JNTU-Hyderabad,JNTU-kakinada,JNTU-Anathapur,SUV universities)in AP and Telangana where MSIT program is being offered. 
@@ -29,17 +32,17 @@ MSIT employs a unique ‘Sequential Learning’ technique by which a student onl
 The duration of MSIT program is two years. The course structure follows: An academic year is divided into 6 mini semesters and the duration of each mini semester is eight weeks. 
 The first year has five IT and Soft Skills mini semesters each and one practicum mini semester. The Second year has Specialization and 2 practicum mini semesters. 
 MSIT Program offers both IT and  Soft Skills courses. MSIT follows credit based grading system and information related to acedemic credits will be given at the time of induction. 
-Minimum eligibility criteria to join MSIT  is  having Minimum Btech/BE  degree (All branches). 
+Minimum eligibility criteria for appearing GAT exam and to join in MSIT program is having Minimum Btech/BE  degree (All branches).
 Exam dates may vary so please,check the website for the dates. 
 In IIIT Hyderabad, We have a medical facility in campus called AAROGYA MEDICAL centre and there is also a visting physiatrist, an ambulance in case of emergencies. 
 Sports Facilities are provided for cricket, volley ball, soccer,badminton, Tennis, basket ball. 
-Within-campus facilities include a bank extension counter, ATM banking service facility, stationary shop, and canteens services. 
+Within-campus facilities include a bank extension counter, ATM facility, stationary shop, and canteens services. 
 Gymnasium facilities are available in hostel with a physical trainer and also a yoga room with a trained yoga guru for students, faculty and staff. 
 The students who have motorized vehicles can park in the parking space near the main gate. 
-Most of the MSIT mentors are graduates from MSIT having an average teaching experience of 2 years without counting those who have 20 years of experience. 
-Fee structure may vary from learning center to center. 
+Most of the mentors are graduates from MSIT having an average teaching experience of 2 years without counting those who have 20 years of experience. 
+College Fee structure may vary from learning center to center. 
 This is a full time course where you need to attend college regularly. One cannot pursue the course while working and it is not available for part time. 
-Several students  obtained PhD after graduating with MSIT. 
+Several students  obtained PhD after graduating.
 GAT exam usually takes place in the month of june,for more details Please check this link to know more :https://www.msitprogram.net/admissions/ . 
 For GAT Exam You are only allowed to carry  Hall ticket along with Id proof and you can use a Virtual calcultor in exam. 
 The management consider only the best marks from both walk in's and GAT, based on that you will be provided ranks, you will receive an email shortly after attending the exam. 
@@ -52,6 +55,19 @@ GAT Exam cutoff varies yearly and you will be intimated soon after completing th
 Hostel facility is available at IIIT Hyderabad campus. 
 Staying in hostel is mandatory for the students who are admitted into IIIT Hyderabad. 
 In IIIT Hyderabad different Mess facilities available like South,North,Kadamb(Veg),Kadamb(Non-veg),Yukthahar and also three canteens available with in the campus. 
+IIIT Hyderabad is one of the learning centers of MSIT which is located at Gachibowli, Hyderabad. 
+Following are the IT courses that we offer in first year: "Computational Thinking","Python","Introduction to Data science","JAVA","Web and Mobile Programming","Database Management Systems","Algorithms and Data Structures","Introduction to computer systems","Computer Networks","Cyber security","Cloud computing". 
+A latest generation laptop computer is mandatory for every MSIT student and the Laptop configurations/ Specifications/ softwares list will be provided in the joining kit and Students has to make sure that all the technical requirements will meet. 
+Loan facility is available for students who got seat in IIIT Hyderabad by SBI. 
+We follow " Learning by doing" process and The methodology of “Learning By Doing” is a unique one adopted by MSIT which aims at giving hands - on experience which helps the students understand the practical implementation aspects and the concepts associated with it. 
+There will be a tech-cultural fest held by MSIT students at IIIT. 
+Dr. M. Sreenivasa Rao is the Dean of the MSIT Programme. 
+The entire academic calender will be given at the time joining which includes time table and  holidays. 
+There is no reservation system available for getting seats in this MSIT program. 
+Soft SKills syllabus Communication Skills, Career Management Course, Effective Relationship Building Course, Interview Facing Skills, General aptitude and mental ability & continuous programming assessment. 
+In Msit professors not available and only mentors will be there who guide the students. 
+Mentors are different from professors who graduated from MSIT having an average teaching experience of 2 years without counting those who have 20 years exp. 
+you can get seat in IIIT hyderabad by appearing and getting good rank in GAT Exam. 
 '''
 
 #Tokenization
