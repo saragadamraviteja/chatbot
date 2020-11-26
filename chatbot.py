@@ -68,6 +68,7 @@ Soft SKills syllabus Communication Skills, Career Management Course, Effective R
 In Msit professors not available and only mentors will be there who guide the students. 
 Mentors are different from professors who graduated from MSIT having an average teaching experience of 2 years without counting those who have 20 years exp. 
 you can get seat in IIIT hyderabad by appearing and getting good rank in GAT Exam. 
+MSIT offers domain specializations in second year. They are: Machine learning, Data science, Devops, Language Technologies, Information Security, Mobile Computing.  
 '''
 
 #Tokenization
